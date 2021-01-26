@@ -5,7 +5,7 @@ Container mysql 5.7: https://drive.google.com/file/d/1E2Gh6yuAwFvyy_kMcEZtBaQ3pW
 |____Môn học: Điện toán đám mây
 |____Đề tài: Tìm hiểu HUE và viết ứng dụng Demo
 |____GVHD: Thầy Huỳnh Xuân Phụng
-Sinh viên thực hiện:
+Sinh viên thực hiện: Nhóm 24
 |____Trần Trọng Nghĩa   17133040
 |____Vũ Anh Thái Dương  17133010
 
