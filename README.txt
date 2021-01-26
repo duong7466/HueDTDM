@@ -1,6 +1,7 @@
 # HueDTDM
 Video demo: https://youtu.be/faRRP8hrOwE
-Điện toán đám mây
+Đồ án cuối kì
+|____Môn học: Điện toán đám mây
 |____Đề tài: Tìm hiểu HUE và viết ứng dụng Demo
 |____GVHD: Thầy Huỳnh Xuân Phụng
 Sinh viên thực hiện:
